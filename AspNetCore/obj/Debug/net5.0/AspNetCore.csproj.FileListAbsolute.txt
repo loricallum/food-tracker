@@ -1,0 +1,7 @@
+C:\Users\Lori Lewis\crudapp\vue\food-tracker\AspNetCore\obj\Debug\net5.0\AspNetCore.csprojAssemblyReference.cache
+C:\Users\Lori Lewis\crudapp\vue\food-tracker\AspNetCore\obj\Debug\net5.0\AspNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lori Lewis\crudapp\vue\food-tracker\AspNetCore\obj\Debug\net5.0\AspNetCore.AssemblyInfoInputs.cache
+C:\Users\Lori Lewis\crudapp\vue\food-tracker\AspNetCore\obj\Debug\net5.0\AspNetCore.AssemblyInfo.cs
+C:\Users\Lori Lewis\crudapp\vue\food-tracker\AspNetCore\obj\Debug\net5.0\AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Lori Lewis\crudapp\vue\food-tracker\AspNetCore\obj\Debug\net5.0\AspNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lori Lewis\crudapp\vue\food-tracker\AspNetCore\obj\Debug\net5.0\AspNetCore.MvcApplicationPartsAssemblyInfo.cache
